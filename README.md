@@ -10,7 +10,8 @@ Hence, Design is a key part of my Development process, keeping the End-User Expe
 I have programming expertise in **Java** and have command over developing front-end websites.
 A team player, an avid learner with good communication skills.💬
 
-### View my profile at => https://eshaankhurana.com/ 👨🏻‍💻
+### View my profile here => https://eshaankhurana.com/ 👨🏻‍💻
+### view my blogs here => https://medium.com/@eshaany2k ✍🏼
 
 <!--
 **eshaan007/eshaan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
