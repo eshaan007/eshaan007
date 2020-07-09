@@ -1,17 +1,16 @@
 ### Hey Stalker! 👋
 
+
+
 #### I am a 3rd Year undergraduate (2018-22) from IIIT Vadodara (Information Technology). A Front-end Software developer who has an athirst for *Web and Mobile Development*.🌐📲
 
 #### Proficient Acoustic Guitarist, an Avid Gamer and a big time Melophile.🎸🎮🎧
 
-*"Design is not just how it looks and feels like, It's how it works." - Steve Jobs.*
-Hence, Design is a key part of my Development process, keeping the End-User Experience "Top notch."
-
 I have programming expertise in **Java** and have command over developing front-end websites.
 A team player, an avid learner with good communication skills.💬
 
-### View my profile here => https://eshaankhurana.com/ 👨🏻‍💻
-### view my blogs here => https://medium.com/@eshaany2k ✍🏼
+#### View my Website here => https://eshaankhurana.com/ 👨🏻‍💻
+#### View my Blogs here => https://medium.com/@eshaany2k ✍🏼
 
 <!--
 **eshaan007/eshaan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
