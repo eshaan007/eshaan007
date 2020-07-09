@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey Stalker! 👋
 
-#### A 3rd Year undergraduate (2018-22) from IIIT Vadodara (Information Technology). A Front-end Software developer who has an athirst for *Web and Mobile Development*.🌐📲
+#### I am a 3rd Year undergraduate (2018-22) from IIIT Vadodara (Information Technology). A Front-end Software developer who has an athirst for *Web and Mobile Development*.🌐📲
 
 #### Proficient Acoustic Guitarist, an Avid Gamer and a big time Melophile.🎸🎮🎧
 
