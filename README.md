@@ -1,28 +1,9 @@
-### Hey Stalker! 👋
+### Hey Nerdy Stalker! 👋
 
+I am a 3rd Year undergraduate from IIITV. A Front-end Software developer who :heart: *Web and Mobile App Development*.🌐📲 I am currently working at different organizations as an Open-Source Contributor on Front-end Web Development using ReactJS, BulmaCSS, etc. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
-
-#### I am a 3rd Year undergraduate (2018-22) from IIIT Vadodara (Information Technology). A Front-end Software developer who has an athirst for *Web and Mobile Development*.🌐📲
-
-#### Proficient Acoustic Guitarist, an Avid Gamer and a big time Melophile.🎸🎮🎧
-
-I have programming expertise in **Java** and have command over developing front-end websites.
-A team player, an avid learner with good communication skills.💬
-
-#### View my Website here => https://eshaankhurana.com/ 👨🏻‍💻
-#### View my Blogs here => https://medium.com/@eshaany2k ✍🏼
-
-<!--
-**eshaan007/eshaan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything and everything! 
+- 👨🏻‍💻 View my Website here => https://eshaankhurana.com/ 
+- ✍ View my Blogs here => https://medium.com/@eshaany2k/ 
+- 📫 Reach me here => eshaany2k@gmail.com 
+- ⚡ Fun facts => I love playing 🎸,Gaming 🎮, Listening to All genres of Music 🎧 and Watching ⚽. 
