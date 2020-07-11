@@ -7,3 +7,5 @@ I am a 3rd Year undergraduate from IIITV 🎓. A Front-end Software developer wh
 - ✍ View my Blogs here => https://medium.com/@eshaany2k/ 
 - 📫 Reach me here => eshaany2k@gmail.com 
 - ⚡ Fun facts => I love playing 🎸, Gaming 🎮, Listening to All genres of Music 🎧 and Watching ⚽. 
+
+![Eshaan's github stats](https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&hide_border=true)
