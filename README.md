@@ -35,6 +35,16 @@ I am a 3rd Year undergraduate from *IIITV* 🎓. A Front-end Software developer 
 
 ---
 
-- ⚡ Fun facts => I love playing 🎸, Gaming 🎮, Listening to All genres of Music 🎧 and Watching ⚽. 
 
+~~~
+- ⚡ Fun facts: 
+        { I love 
+          [ 
+            playing 🎸,
+            Gaming 🎮, 
+            Listening to All genres of Music 🎧,
+            Watching ⚽
+          ]
+        };
+~~~
 ![Eshaan's github stats](https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&hide_border=true)
