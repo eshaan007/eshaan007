@@ -14,7 +14,8 @@ I am a 3rd Year undergraduate from *IIITV* 🎓. A Front-end Software developer 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)]()
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)]()
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)]()
+[![Bulma CSS](https://img.shields.io/badge/-BulmaCSS-00d1b2?style=flat-square&logo=bulma&logoColor=white)]()
+[![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
 
@@ -28,6 +29,7 @@ I am a 3rd Year undergraduate from *IIITV* 🎓. A Front-end Software developer 
 
 [![Heroku](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=zeit)]()
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
+[![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)]()
 
 ---
 
