@@ -1,10 +1,10 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshaan-khurana/)](https://www.linkedin.com/in/eshaan-khurana/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eshaany2k/)](https://medium.com/@eshaany2k/)
+
 ### Hey Nerdy Stalker!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 I am a 3rd Year undergraduate from *IIITV* 🎓. A Front-end Software developer who :heart: *Web and Mobile App Development*.🌐📲 I am currently working at different organizations as an Open-Source Contributor on Front-end Web Development using ⚛️ etc. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.✨
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshaan-khurana/)](https://www.linkedin.com/in/eshaan-khurana/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
 
 ## Knowledges
 
@@ -32,7 +32,6 @@ I am a 3rd Year undergraduate from *IIITV* 🎓. A Front-end Software developer 
 
 - 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my Website here => https://eshaankhurana.com/ 
-- ✍ View my Blogs here => https://medium.com/@eshaany2k/ 
 - ⚡ Fun facts => I love playing 🎸, Gaming 🎮, Listening to All genres of Music 🎧 and Watching ⚽. 
 
 ![Eshaan's github stats](https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&hide_border=true)
