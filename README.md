@@ -40,10 +40,10 @@ I am a 3rd Year undergraduate from *IIITV* 🎓. A Front-end Software developer 
 Fun facts ⚡ : 
         { I love 
           [ 
-            playing 🎸,
-            Gaming 🎮, 
-            Listening to All genres of Music 🎧,
-            Watching ⚽
+            "Playing" : 🎸,
+            "Gaming" : 🎮, 
+            "Listening" : "All genres of Music 🎧",
+            "Watching": ⚽
           ]
         };
 ~~~
