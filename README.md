@@ -18,8 +18,10 @@ I am a 3rd Year undergraduate from *IIITV* 🎓. A Front-end Software developer 
 [![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)]()
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
+[![Sass](https://img.shields.io/badge/-Sass-cd6799?style=flat-square&logo=sass&logoColor=white)]()
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]()
+[![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=zeit)]()
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]()
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)]()
