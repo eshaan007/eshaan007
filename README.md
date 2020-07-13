@@ -4,7 +4,7 @@
 [![Internet Badge](https://img.shields.io/badge/-Website?style=flat&logo=appveyor&logoColor=white&link=https://eshaankhurana.com)](https://eshaankhurana.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eshaan007.visitor-badge)
 
-### Hey Nerdy Stalker!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 I am a 3rd Year undergraduate from *IIITV* 🎓. A Front-end Software developer who :heart: *Web and Mobile App Development*.🌐📲 I am currently working at different organizations as an Open-Source Contributor on Front-end Web Development using ⚛️ etc. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.✨ Exploring the field of Blockchain! **₿** 
 
