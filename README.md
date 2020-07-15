@@ -2,7 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eshaany2k/)](https://medium.com/@eshaany2k/)
 [![Internet Badge](https://img.shields.io/badge/-Website?style=flat&logo=appveyor&logoColor=white&link=https://eshaankhurana.com)](https://eshaankhurana.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eshaan007.visitor-badge)
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
