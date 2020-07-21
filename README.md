@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshaan-khurana/)](https://www.linkedin.com/in/eshaan-khurana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eshaany2k/)](https://medium.com/@eshaany2k/)
-[![website](https://img.shields.io/badge/eshaankhurana.com-0a192f?style=flat-square&logo=google-chrome)](https://eshaankhurana.com/)
+[![website](https://img.shields.io/badge/EK-0a192f?style=flat-square&logo=google-chrome)](https://eshaankhurana.com/)
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
