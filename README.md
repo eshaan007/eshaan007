@@ -47,4 +47,9 @@ Fun facts ⚡ :
           ]
         };
 ~~~
-<img src="https://github-readme-stats.vercel.app/api?username=eshaan007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<a href="https://sourcerer.io/eshaan007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaan007&theme=radical&hide=glsl,python,php" alt="Eshaan's Language Stats"/>
+</a>
+<a href="https://github.com/eshaan007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&theme=radical&line_height=27" alt="Eshaan's Github Stats" />
+</a>
