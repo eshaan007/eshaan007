@@ -25,15 +25,13 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-end Software developer who :he
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/eshaan007/eshaan007">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaan007&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/eshaan007/eshaan007">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eshaan's Github Stats" />
 </a>
@@ -41,7 +39,6 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-end Software developer who :he
 <a href="https://github.com/eshaan007/My-Portfolio-v1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=My-Portfolio-v1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/MartinHeinz/DrumKit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=DrumKit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -52,10 +49,10 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-end Software developer who :he
 Fun facts ⚡ : 
         { I love 
           [ 
-            "Playing" : "🎸",
-            "Gaming" : "🎮", 
-            "Listening" : "All genres of Music 🎧",
-            "Watching": "⚽"
+            "Playing 🎸" : ["Hotel California","City of Stars","Counting Stars"]
+            "Gaming 🎮" : ["FIFA-20","Valorant","PES-20"]
+            "Listening 🎧" : ["Stitches","Counting Stars","Paradise"]
+            "Watching 📺": ["⚽"]
           ]
         };
 ~~~
