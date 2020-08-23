@@ -7,38 +7,45 @@
 
 I am a **3rd Year UG** from *IIITV* 🎓. A Front-end Software developer who :heart: *Web and Mobile App Development*.🌐📲 I am currently working at different organizations as an Open-Source Contributor on Front-end Web Development using **⚛** etc. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.✨ Exploring Blockchain, Solidity and Ethereum!!! **₿** 
 
-## Technologies :
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
-[![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=Java)]()
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)]()
+## 🔧 Technologies & Tools
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)]()
-[![Bulma CSS](https://img.shields.io/badge/-BulmaCSS-00d1b2?style=flat-square&logo=bulma&logoColor=white)]()
-[![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
-[![Sass](https://img.shields.io/badge/-Sass-cd6799?style=flat-square&logo=sass&logoColor=white)]()
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]()
-[![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=zeit)]()
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)]()
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]()
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)]()
+## &#x1f4c8; GitHub Stats
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
-
-[![Heroku](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=zeit)]()
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)]()
-[![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)]()
-
-<a href="https://sourcerer.io/eshaan007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaan007&theme=radical&hide=php" alt="Eshaan's Language Stats"/>
+<a href="https://github.com/eshaan007/eshaan007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaan007&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/eshaan007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&theme=radical&line_height=27" alt="Eshaan's Github Stats" />
+<a href="https://github.com/eshaan007/eshaan007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eshaan's Github Stats" />
 </a>
+
+<a href="https://github.com/eshaan007/My-Portfolio-v1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=My-Portfolio-v1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/DrumKit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=DrumKit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 ---
 ~~~
