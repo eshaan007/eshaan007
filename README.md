@@ -2,7 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eshaany2k/)](https://medium.com/@eshaany2k/)
 [![website](https://img.shields.io/badge/Portfolio-EK-2bbc8a?style=flat-square&logo=google-chrome&logoColor=2bbc8a)](https://eshaankhurana.com/)
-![Profile views](https://gpvc.arturio.dev/eshaan007)
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
@@ -26,6 +25,7 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-end Software developer who :he
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
+![Profile views](https://gpvc.arturio.dev/eshaan007)
 
 ## &#x1f4c8; GitHub Stats
 
