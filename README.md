@@ -2,6 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eshaany2k/)](https://medium.com/@eshaany2k/)
 [![website](https://img.shields.io/badge/Portfolio-EK-2bbc8a?style=flat-square&logo=google-chrome&logoColor=2bbc8a)](https://eshaankhurana.com/)
+![Profile views](https://gpvc.arturio.dev/eshaan007)
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
