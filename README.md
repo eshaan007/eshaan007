@@ -41,7 +41,7 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-end Software developer who :he
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=My-Portfolio-v1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/DrumKit">
+<a href="https://github.com/eshaan007/Connect-Club">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=DrumKit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
