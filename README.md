@@ -25,7 +25,6 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-end Software developer who :he
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
-![Profile views](https://gpvc.arturio.dev/eshaan007)
 
 ## &#x1f4c8; GitHub Stats
 
