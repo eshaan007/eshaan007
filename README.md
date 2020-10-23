@@ -34,15 +34,15 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-End Software developer who :he
 </a>
 
 <a href="https://github.com/eshaan007/eshaan007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eshaan's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f1c330&bg_color=1d1f21" alt="Eshaan's Github Stats" />
 </a>
 
 <a href="https://github.com/eshaan007/My-Portfolio-v1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=My-Portfolio-v1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=My-Portfolio-v1&title_color=ffffff&text_color=c9cacc&icon_color=f1c330&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/eshaan007/Connect-Club">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=DrumKit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=DrumKit&title_color=ffffff&text_color=c9cacc&icon_color=f1c330&bg_color=1d1f21" />
 </a>    
 
 ---
