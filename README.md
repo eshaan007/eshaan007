@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshaan-khurana/)](https://www.linkedin.com/in/eshaan-khurana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eshaany2k/)](https://medium.com/@eshaany2k/)
-[![website](https://img.shields.io/badge/Portfolio-EK-f1c330?style=flat-square&logo=google-chrome&logoColor=f1c330)](https://eshaankhurana.com/)
+[![website](https://img.shields.io/badge/Portfolio-EK-f1c330?style=flat-square&logo=google-chrome&logoColor=2bbc8a)](https://eshaankhurana.com/)
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
@@ -10,21 +10,21 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-End Software developer who :he
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vs&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Code-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=f1c330)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ethereum&logoColor=white&color=f1c330)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-Sass-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Deploy-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
