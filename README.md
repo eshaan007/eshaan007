@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshaan-khurana/)](https://www.linkedin.com/in/eshaan-khurana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@eshaany2k/)](https://medium.com/@eshaany2k/)
-[![website](https://img.shields.io/badge/Portfolio-EK-f1c330?style=flat-square&logo=google-chrome&logoColor=2bbc8a)](https://eshaankhurana.com/)
+[![website](https://img.shields.io/badge/Portfolio-EK-2bbc8a?style=flat-square&logo=google-chrome&logoColor=2bbc8a)](https://eshaankhurana.com/)
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
@@ -34,15 +34,15 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-End Software developer who :he
 </a>
 
 <a href="https://github.com/eshaan007/eshaan007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f1c330&bg_color=1d1f21" alt="Eshaan's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaan007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Eshaan's Github Stats" />
 </a>
 
 <a href="https://github.com/eshaan007/My-Portfolio-v1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=My-Portfolio-v1&title_color=ffffff&text_color=c9cacc&icon_color=f1c330&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=My-Portfolio-v1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/eshaan007/Connect-Club">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=DrumKit&title_color=ffffff&text_color=c9cacc&icon_color=f1c330&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eshaan007&repo=DrumKit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 ---
