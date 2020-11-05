@@ -17,13 +17,14 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-End Software developer who :he
 ![website](https://img.shields.io/badge/Code-Javascript-2bbc8a?style=for-the-badge&logo=javascript&color=2bbc8a&logoColor=white)
 ![website](https://img.shields.io/badge/Code-ReactJS-2bbc8a?style=for-the-badge&logo=react&color=2bbc8a&logoColor=white)
 ![website](https://img.shields.io/badge/Code-Python-2bbc8a?style=for-the-badge&logo=python&color=2bbc8a&logoColor=white)
-![website](https://img.shields.io/badge/Code-Bootstrap-2bbc8a?style=for-the-badge&logo=bootstrap&color=2bbc8a&logoColor=white)
+![website](https://img.shields.io/badge/Styling-Bootstrap-2bbc8a?style=for-the-badge&logo=bootstrap&color=2bbc8a&logoColor=white)
+![website](https://img.shields.io/badge/Styling-Bulma-2bbc8a?style=for-the-badge&logo=bulma&color=2bbc8a&logoColor=white)
 ![website](https://img.shields.io/badge/Styling-Sass-2bbc8a?style=for-the-badge&logo=sass&color=2bbc8a&logoColor=white)
 ![website](https://img.shields.io/badge/Tools-Github-2bbc8a?style=for-the-badge&logo=github&color=2bbc8a&logoColor=white)
-![website](https://img.shields.io/badge/Code-Git-2bbc8a?style=for-the-badge&logo=git&color=2bbc8a&logoColor=white)
+![website](https://img.shields.io/badge/Tools-Git-2bbc8a?style=for-the-badge&logo=git&color=2bbc8a&logoColor=white)
 ![website](https://img.shields.io/badge/Deploy-Netlify-2bbc8a?style=for-the-badge&logo=netlify&color=2bbc8a&logoColor=white)
 ![website](https://img.shields.io/badge/Tools-GraphQL-2bbc8a?style=for-the-badge&logo=graphql&color=2bbc8a&logoColor=white)
-![website](https://img.shields.io/badge/Code-Solidity-2bbc8a?style=for-the-badge&logo=solidity&color=2bbc8a&logoColor=white)
+![website](https://img.shields.io/badge/Code-Solidity-2bbc8a?style=for-the-badge&logo=ethereum&color=2bbc8a&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
