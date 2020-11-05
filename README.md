@@ -46,15 +46,3 @@ I am a **3rd Year UG** from *IIITV* 🎓. A Front-End Software developer who :he
 </a>    
 
 ---
-~~~
-Fun facts ⚡ : 
-        { I love 
-          [ 
-            "Playing 🎸" : ["Hotel California", "City of Stars", "Counting Stars"]
-            "Gaming 🎮" : ["FIFA-20", "Valorant", "PES-20"]
-            "Listening 🎧" : ["Stitches", "Counting Stars", "Paradise"]
-            "Watching 📺": ["⚽"]
-          ]
-        };
-~~~
-
