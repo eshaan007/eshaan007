@@ -5,4 +5,6 @@
 
 # Hey There!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-I am a **3rd Year UG** from *IIITV* 🎓. A Front-End Software developer who :heart: *Web and Mobile App Development*.🌐📲 I am currently working at different organizations as an Open-Source Contributor on Front-End Web Development using **⚛** etc. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.✨ Exploring Blockchain, Solidity and Ethereum!!! **₿** 
+I am a **3rd Year Undergraduate** from **IIIT Vadodara** pursuing B.Tech in Information Technology.🎓<br> 
+I love to Design and Develop Mobile and Web Applications.🌐📲 <br>
+I am currently looking for Internships as a Front-End Web Developer/ Software Developer.👨‍💻 <br>
