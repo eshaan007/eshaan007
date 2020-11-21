@@ -14,7 +14,7 @@
 
 ☀️ Besides Development and Hackathons, I constantly work on Open-Source and have been a Mentor and Participant in various Open-Source Initiatives. Being a Top-Participant in 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝗖𝗼𝗱𝗲-𝗜𝗻 and a Mentor in 𝗛𝗮𝗸𝗶𝗻𝗖𝗼𝗱𝗲𝘀 has been beneficial. <br>
 
-💻 𝗦𝗼𝗺𝗲 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 (Available on Github @𝗲𝘀𝗵𝗮𝗮𝗻𝟬𝟬𝟳): <br>
+💻 𝗦𝗼𝗺𝗲 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀: <br>
 ⪢ My Portfolio Website (ReactJS)<br>
 ⪢ Research Paper on “Attacks and Defenses on Web Applications”<br>
 ⪢ Weather-X (ReactJS)<br>
@@ -28,5 +28,4 @@ And many more...<br>
 ✍️ A Technical Writer, I love to blog about the latest advancements in Technology as well as Product Reviews under the Publication - 𝗡𝗲𝗿𝗱 𝗙𝗼𝗿 𝗧𝗲𝗰𝗵. You can read my Blogs on Medium at @𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸.<br>
 
 ➡ You can reach out to me at 𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺<br>
-➡ Check out my work on Github @𝗲𝘀𝗵𝗮𝗮𝗻𝟬𝟬𝟳<br>
 ➡ Look into my Online Presence: 𝗹𝗶𝗻𝗸𝘁𝗿.𝗲𝗲/EK007 <br>
