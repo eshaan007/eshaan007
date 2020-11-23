@@ -16,6 +16,7 @@
 
 💻 𝗦𝗼𝗺𝗲 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀: <br>
 ⪢ My Portfolio Website (ReactJS)<br>
+⪢ MeloBeats (ReactJS)<br>
 ⪢ Research Paper on “Attacks and Defenses on Web Applications”<br>
 ⪢ Weather-X (ReactJS)<br>
 ⪢ Allowance Checker (Solidity)<br>
