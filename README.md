@@ -5,8 +5,6 @@
 
 # Hey, I'm Eshaan Khurana!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-Hey, I'm Eshaan Khurana! 👋
-
 🎓A 3rd Year Student at 𝗜𝗜𝗜𝗧 𝗩𝗮𝗱𝗼𝗱𝗮𝗿𝗮 currently pursuing my Bachelors in Information Technology. I have experience developing applications and fluid websites.
 
 ⚡ 𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝗮𝘀 𝗮𝗻 𝗜𝗻𝘁𝗲𝗿𝗻 𝗶𝗻 𝘁𝗵𝗲 𝗿𝗼𝗹𝗲 𝗼𝗳 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁/ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿.
