@@ -15,15 +15,15 @@ Hey, I'm Eshaan Khurana! 👋
 
 ☀️ Besides Development and Hackathons, I constantly work on Open-Source and have been a Mentor and Participant in various Open-Source Initiatives. Being a Top-Participant in 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝗖𝗼𝗱𝗲-𝗜𝗻 and a Mentor in 𝗛𝗮𝗸𝗶𝗻𝗖𝗼𝗱𝗲𝘀 and 𝗦𝗰𝗿𝗶𝗽𝘁 𝗪𝗶𝗻𝘁𝗲𝗿 𝗼𝗳 𝗖𝗼𝗱𝗲 𝟮𝟬𝟮𝟬 - 𝟮𝟭 has been beneficial.
 
-💻 𝗦𝗼𝗺𝗲 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 (Available on Github @𝗲𝘀𝗵𝗮𝗮𝗻𝟬𝟬𝟳):
-⪢ My Portfolio Website (ReactJS)
-⪢ Melobeats (ReactJS)
-⪢ Research Paper on “Attacks and Defenses on Web Applications”
-⪢ Weather-X (ReactJS)
-⪢ Allowance Checker (Solidity)
-⪢ Virtual DrumKit (Vanilla JS)
-⪢ The Infamous Snake Game (Java)
-And many more...
+💻 𝗦𝗼𝗺𝗲 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 (Available on Github @𝗲𝘀𝗵𝗮𝗮𝗻𝟬𝟬𝟳): <br>
+⪢ My Portfolio Website (ReactJS)<br>
+⪢ Melobeats (ReactJS)<br>
+⪢ Research Paper on “Attacks and Defenses on Web Applications”<br>
+⪢ Weather-X (ReactJS)<br>
+⪢ Allowance Checker (Solidity)<br>
+⪢ Virtual DrumKit (Vanilla JS)<br>
+⪢ The Infamous Snake Game (Java)<br>
+And many more...<br>
 
 🎵 I lead the Music Club of IIITV, Encore as the 𝗦𝗲𝗰𝗿𝗲𝘁𝗮𝗿𝘆 for the Year 2020-21. As the 𝗦𝗲𝗰𝗿𝗲𝘁𝗮𝗿𝘆, I have remotely led an Event Team of 8 members responsible for conducting 𝗘𝘂𝗽𝗵𝗼𝗿𝗶𝗮'𝟮𝟬 and 𝗥𝘆𝘁𝗵𝗰𝗼𝗿𝗲'𝟮𝟭 which resulted in Massive Participation across various institutes of India. An audience of over 𝟮𝟬,𝟬𝟬𝟬+ witnessed it unfold virtually. As the Senior Acoustic Guitarist, I have 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱 𝗮𝘁 𝟮𝟬+ inter-college events at IIT Gandhinagar, DAIICT and many more institutes. I have been 𝗚𝘂𝗶𝗱𝗶𝗻𝗴 and 𝗠𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴 Junior Guitarists since the past 2 Years.
 
