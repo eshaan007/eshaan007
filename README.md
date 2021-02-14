@@ -29,5 +29,5 @@ And many more...
 
 ✍️ A Technical Writer, I love to blog about the latest advancements in Technology as well as Product Reviews under the Publication - 𝗡𝗲𝗿𝗱 𝗙𝗼𝗿 𝗧𝗲𝗰𝗵. You can read my Blogs on Medium at @𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸.
 
-➡ You can reach out to me at 𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺
+➡ You can reach out to me at 𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 <br>
 ➡ Look into my Online Presence: 𝗹𝗶𝗻𝗸𝘁𝗿.𝗲𝗲/EK007 
