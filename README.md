@@ -11,11 +11,12 @@
 
 👨‍💻 A Hackathon Enthusiast, I have been a Mentor at 𝗗𝗲𝗹𝗵𝗶 𝗛𝗮𝗰𝗸𝘀 organized by MLH and The Script Foundation and I have also been selected for the Fellowship Program by 𝗜𝗻𝗰𝘂𝗯𝗮𝘁𝗲𝗜𝗡𝗗. I have also secured 𝟰𝘁𝗵 𝗦𝗽𝗼𝘁 in 𝗛𝗮𝗰𝗸𝗜𝗜𝗜𝗧𝗩 Hackathon among 130+ participants.
 
-☀️ Besides Development and Hackathons, I constantly work on Open-Source and have been a Mentor and Participant in various Open-Source Initiatives. Being a Top-Participant in 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝗖𝗼𝗱𝗲-𝗜𝗻 and a Mentor in 𝗛𝗮𝗸𝗶𝗻𝗖𝗼𝗱𝗲𝘀 and 𝗦𝗰𝗿𝗶𝗽𝘁 𝗪𝗶𝗻𝘁𝗲𝗿 𝗼𝗳 𝗖𝗼𝗱𝗲 𝟮𝟬𝟮𝟬 - 𝟮𝟭 has been beneficial.
+☀️ Besides Development and Hackathons, I constantly work on Open-Source and have been a Mentor and Participant in various Open-Source Initiatives. Being a Top-Participant in 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝗖𝗼𝗱𝗲-𝗜𝗻 and a Mentor in **GSSoC'21,** 𝗛𝗮𝗸𝗶𝗻𝗖𝗼𝗱𝗲𝘀 and 𝗦𝗪𝗼𝗖'𝟮𝟬-𝟮𝟭 has been beneficial.
 
 💻 𝗦𝗼𝗺𝗲 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 (Available on Github @𝗲𝘀𝗵𝗮𝗮𝗻𝟬𝟬𝟳): <br>
 ⪢ My Portfolio Website (ReactJS)<br>
 ⪢ Melobeats (ReactJS)<br>
+⪢ Inferno - Gaming Search Engine (ReactJS + Redux)<br>
 ⪢ Research Paper on “Attacks and Defenses on Web Applications”<br>
 ⪢ Weather-X (ReactJS)<br>
 ⪢ Allowance Checker (Solidity)<br>
