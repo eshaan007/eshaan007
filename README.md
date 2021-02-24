@@ -24,9 +24,5 @@
 ⪢ The Infamous Snake Game (Java)<br>
 And many more...<br>
 
-🎵 I lead the Music Club of IIITV, Encore as the 𝗦𝗲𝗰𝗿𝗲𝘁𝗮𝗿𝘆 for the Year 2020-21. As the 𝗦𝗲𝗰𝗿𝗲𝘁𝗮𝗿𝘆, I have remotely led an Event Team of 8 members responsible for conducting 𝗘𝘂𝗽𝗵𝗼𝗿𝗶𝗮'𝟮𝟬 and 𝗥𝘆𝘁𝗵𝗰𝗼𝗿𝗲'𝟮𝟭 which resulted in Massive Participation across various institutes of India. An audience of over 𝟮𝟬,𝟬𝟬𝟬+ witnessed it unfold virtually. As the Senior Acoustic Guitarist, I have 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱 𝗮𝘁 𝟮𝟬+ inter-college events at IIT Gandhinagar, DAIICT and many more institutes. I have been 𝗚𝘂𝗶𝗱𝗶𝗻𝗴 and 𝗠𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴 Junior Guitarists since the past 2 Years.
-
-✍️ A Technical Writer, I love to blog about the latest advancements in Technology as well as Product Reviews under the Publication - 𝗡𝗲𝗿𝗱 𝗙𝗼𝗿 𝗧𝗲𝗰𝗵. You can read my Blogs on Medium at @𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸.
-
 ➡ You can reach out to me at 𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺 <br>
 ➡ Look into my Online Presence: 𝗹𝗶𝗻𝗸𝘁𝗿.𝗲𝗲/EK007 
