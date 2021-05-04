@@ -25,4 +25,5 @@
 And many more...<br>
 
 ➡ You can reach out to me at <a href='mailto:𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺'> 𝗲𝘀𝗵𝗮𝗮𝗻𝘆𝟮𝗸@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺</a> <br>
-➡ Look into my Online Presence: <a href='https://linktr.ee/EK007'> 𝗹𝗶𝗻𝗸𝘁𝗿.𝗲𝗲/EK007 </a>
+➡ Look into my Online Presence: <a href='https://linktr.ee/EK007'> 𝗹𝗶𝗻𝗸𝘁𝗿.𝗲𝗲/EK007 </a> <br>
+➡ Resume: <a href='https://drive.google.com/file/d/1f-PXuG8iqhh4WB5vONuyu0OeS0GWEUmr/view?usp=sharing'> Drive Link </a>
