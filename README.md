@@ -7,8 +7,6 @@
 
 🎓A 3rd Year Student at 𝗜𝗜𝗜𝗧 𝗩𝗮𝗱𝗼𝗱𝗮𝗿𝗮 currently pursuing my Bachelors in Information Technology. I have experience developing applications and fluid websites.
 
-⚡ 𝗜 𝗮𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝗮𝘀 𝗮𝗻 𝗜𝗻𝘁𝗲𝗿𝗻 𝗶𝗻 𝘁𝗵𝗲 𝗿𝗼𝗹𝗲 𝗼𝗳 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁/ 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿.
-
 👨‍💻 A Hackathon Enthusiast, I have been a Mentor at 𝗗𝗲𝗹𝗵𝗶 𝗛𝗮𝗰𝗸𝘀 organized by MLH and The Script Foundation and I have also been selected for the Fellowship Program by 𝗜𝗻𝗰𝘂𝗯𝗮𝘁𝗲𝗜𝗡𝗗. I have also secured 𝟰𝘁𝗵 𝗦𝗽𝗼𝘁 in 𝗛𝗮𝗰𝗸𝗜𝗜𝗜𝗧𝗩 Hackathon among 130+ participants.
 
 ☀️ Besides Development and Hackathons, I constantly work on Open-Source and have been a Mentor and Participant in various Open-Source Initiatives. Being a Top-Participant in 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝗖𝗼𝗱𝗲-𝗜𝗻 and a Mentor in 𝗛𝗮𝗸𝗶𝗻𝗖𝗼𝗱𝗲𝘀 and **GSSoC'21** has been beneficial.
