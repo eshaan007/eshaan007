@@ -15,7 +15,6 @@
 ⪢ My Portfolio Website (ReactJS)<br>
 ⪢ Melobeats (ReactJS)<br>
 ⪢ Inferno - Gaming Search Engine (ReactJS + Redux)<br>
-⪢ Research Paper on “Attacks and Defenses on Web Applications”<br>
 ⪢ Weather-X (ReactJS)<br>
 ⪢ Allowance Checker (Solidity)<br>
 ⪢ Virtual DrumKit (Vanilla JS)<br>
