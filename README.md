@@ -5,7 +5,7 @@
 
 # Hey, I'm Eshaan Khurana!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-🎓 I am a Junior Year Student at IIIT-Vadodara, currently pursuing my Bachelors in Information Technology. I am a Mentor for 'React' at The Uplift Project’21 by GirlScript and Research Intern at University of Wollongong, Australia.
+🎓 I am a Final Year Student at IIIT-Vadodara, currently pursuing my Bachelors in Information Technology. I am a Mentor for 'React' at The Uplift Project’21 by GirlScript.
 
 👨🏻‍💻 I have been an Open Source Enthusiast; From being a Top-Participant to Mentoring in over 7 Open Source Initiatives and Hackathons.
 
@@ -15,4 +15,4 @@
 
 🔗 Connect with me here ➡ eshaany2k@gmail.com <br>
 
-📜 See my work here     ➡ <a href='https://drive.google.com/file/d/1qzHoBJO5lJvJewdrrTyOA3Om2Mr4ukbh/view?usp=drivesdk'> Resume </a>
+📜 See my work here     ➡ <a href='https://drive.google.com/file/d/1OjNsTpjKe-U1wfYxDoM4a6KEPWBDbt15/view?usp=sharing'> Resume </a>
