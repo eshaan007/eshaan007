@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eshaany2k@gmail.com)](mailto:eshaany2k@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@eshaany2k/)](https://medium.com/@eshaany2k/)
 
-# Hey, I'm Eshaan Khurana!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+# Hey, I'm Eshaan Khurana!  
 
 🎓 I am a Final Year Student at IIIT-Vadodara, currently pursuing my Bachelors in Information Technology. I am a Mentor for 'React' at The Uplift Project’21 by GirlScript.
 
