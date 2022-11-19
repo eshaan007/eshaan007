@@ -5,14 +5,14 @@
 
 # Hey, I'm Eshaan Khurana!  
 
-🎓 I am a Final Year Student at IIIT-Vadodara, currently pursuing my Bachelors in Information Technology. I am a Mentor for 'React' at The Uplift Project’21 by GirlScript.
+🎓 I am an Undergraduate from IIIT-Vadodara in Information Technology.
 
 👨🏻‍💻 I have been an Open Source Enthusiast; From being a Top-Participant to Mentoring in over 7 Open Source Initiatives and Hackathons.
 
-🚀 I am an Incoming Software Engineer/ Researcher and a part time writer/ guitarist who loves to learn, develop and explore new disruptions in the Technological Space.
+🚀 Currently, I am a Product Manager/Tech Nerd and a part time guitarist who loves to learn, develop and explore new disruptions in the Technological Space.
 
-⚡ VSCode, Overleaf and Spotify are my Daily accompanists.
+⚡ JIRA, Jupyter, Excel, Python, Tableau & YouTube Music are my Daily accompanists.
 
 🔗 Connect with me here ➡ eshaany2k@gmail.com <br>
 
-📜 See my work here     ➡ <a href='https://drive.google.com/file/d/1OjNsTpjKe-U1wfYxDoM4a6KEPWBDbt15/view?usp=sharing'> Resume </a>
+📜 See my work here     ➡ <a href='https://drive.google.com/file/d/1L1lW_WSTe3mJwHu1e53YFVNyZpLkyBEB/view?usp=sharing'> Resume </a>
