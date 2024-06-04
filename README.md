@@ -4,14 +4,14 @@
 
 # Hey, I'm Eshaan Khurana!  
 
-🎓 I am an Undergraduate from IIIT-Vadodara in Information Technology.
+🎓 I am an MS MIS Grad Student at Texas A&M and have graduated from IIITV in Information Technology.
 
 👨🏻‍💻 I have been an Open Source Enthusiast; From being a Top-Participant to Mentoring in over 7 Open Source Initiatives and Hackathons.
 
-🚀 Currently, I am a Product Manager/Tech Nerd and a part time guitarist who loves to learn, develop and explore new disruptions in the Technological Space.
+🚀 Currently, I am a Gen. AI Product Manager/Tech Nerd and a part-time guitarist who loves exploring, learning & developing new disruptions in the Technology Space.
 
-⚡ JIRA, Jupyter, Excel, Python, Tableau & YouTube Music are my Daily accompanists.
+⚡ JIRA, Confluence, Jupyter, Excel, Python, Azure AI & Spotify are my Daily accompanists.
 
 🔗 Connect with me here ➡ eshaany2k@gmail.com <br>
 
-📜 See my work here     ➡ <a href='https://drive.google.com/file/d/1L1lW_WSTe3mJwHu1e53YFVNyZpLkyBEB/view?usp=sharing'> Resume </a>
+📜 See my work here     ➡ <a href='https://drive.google.com/file/d/1PnP1r_23ykLLJCtex75zkA6QanH7_gwu/view?usp=sharing'> Resume </a>
